@@ -1,0 +1,12 @@
+E:\文档库\C#\Project\DataBase\DataBase\bin\Debug\DataBase.exe.config
+E:\文档库\C#\Project\DataBase\DataBase\bin\Debug\DataBase.exe
+E:\文档库\C#\Project\DataBase\DataBase\bin\Debug\DataBase.pdb
+E:\文档库\C#\Project\DataBase\DataBase\obj\Debug\DataBase.csprojResolveAssemblyReference.cache
+E:\文档库\C#\Project\DataBase\DataBase\obj\Debug\DataBase.Properties.Resources.resources
+E:\文档库\C#\Project\DataBase\DataBase\obj\Debug\DataBase.csproj.GenerateResource.Cache
+E:\文档库\C#\Project\DataBase\DataBase\obj\Debug\DataBase.exe
+E:\文档库\C#\Project\DataBase\DataBase\obj\Debug\DataBase.pdb
+E:\文档库\C#\Project\DataBase\DataBase\obj\Debug\DataBase.SyntheticalExperimenta.resources
+E:\文档库\C#\Project\DataBase\DataBase\obj\Debug\DataBase.StudentInformationManagement.resources
+E:\文档库\C#\Project\DataBase\DataBase\obj\Debug\DataBase.StudentAchievementManagement.resources
+E:\文档库\C#\Project\DataBase\DataBase\obj\Debug\DataBase.CourseMaterialsManagement.resources
